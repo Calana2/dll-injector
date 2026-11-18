@@ -1,0 +1,4 @@
+bin/*.exe
+examples/*.dll
+*.o
+
