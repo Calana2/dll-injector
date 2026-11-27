@@ -2,7 +2,7 @@
 
 Yet another DLL injection / ejection tool.
 
-<img width="710" height="354" alt="pic" src="https://github.com/user-attachments/assets/934f5740-bdf4-4ddc-ba8c-5cd525a0a30f" />
+<img width="795" height="397" alt="injectorpng" src="https://github.com/user-attachments/assets/8c5d95c3-8821-4a7b-a68e-9ebf0340dc6c" />
 
 ## Features
 
